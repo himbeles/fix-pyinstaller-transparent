@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['from_docs.py'],
+    ['from_docs_freeze.py'],
     pathex=[],
     binaries=[],
     datas=[],
