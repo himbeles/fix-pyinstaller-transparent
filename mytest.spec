@@ -2,10 +2,10 @@
 
 
 a = Analysis(
-    ['main.py'],
+    ['from_docs.py'],
     pathex=[],
     binaries=[],
-    datas=[('/Users/luis/source/fix-pyinstaller-transparent/.venv/lib/python3.13/site-packages/nicegui', 'nicegui')],
+    datas=[],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
